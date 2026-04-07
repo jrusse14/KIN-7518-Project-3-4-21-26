@@ -1,0 +1,43 @@
+# Large data files (too large for GitHub)
+*.xlsx
+*.xls
+*.csv
+*.pdf
+
+# macOS system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+*.tiff
+Icon
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.bak
+
+# Python (if any scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
