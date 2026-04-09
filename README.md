@@ -19,9 +19,9 @@
 
 ## Research Questions
 
-**RQ1:** Do Instagram posts featuring revealing clothing or sexualized imagery by Angel Reese and Caitlin Clark receive higher engagement (likes and comments) compared to non-sexualized posts?
+**RQ1:** What recurring themes and moral frames characterize user-generated political discourse about Trump across YouTube, X, and Instagram?
 
-> *Research questions will be refined as analysis develops.*
+**RQ2:** Do comments expressing moral outrage receive higher engagement (likes) than neutral comments across platforms?
 
 ---
 
