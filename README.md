@@ -27,8 +27,8 @@
 
 ## Dataset
 
-- **Dataset:** Clark-Reese (ARCC) — Instagram posts and visual analysis data
-- **Key files used:** `ARCC_INS_POST.xlsx`, `ARCC_INS_VA.xlsx`
+- **Dataset:** B50
+- **Key files used:** `B50_INS_COMMENT.xlsx`, `B50_X_COMMENT.xlsx`, `B50_YT_COMMENT.xlsx`
 - **Note:** Raw data files are stored locally and are not uploaded to this repo (see `.gitignore`)
 
 ---
