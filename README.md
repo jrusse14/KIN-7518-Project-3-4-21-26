@@ -27,7 +27,7 @@
 
 ## Dataset
 
-- **Dataset:** B50
+- **Dataset:** B50 — Trump/Political polarization discourse
 - **Key files used:** `B50_INS_COMMENT.xlsx`, `B50_X_COMMENT.xlsx`, `B50_YT_COMMENT.xlsx`
 - **Note:** Raw data files are stored locally and are not uploaded to this repo (see `.gitignore`)
 
@@ -37,9 +37,10 @@
 
 | Analysis | Description | RQ |
 |----------|-------------|----|
-| Post content coding | Categorize each post as sexualized or non-sexualized using defined criteria | RQ1 |
-| Engagement comparison | Calculate mean engagement (likes + comments) for each post type per athlete | RQ1 |
-| Effect size calculation | Determine magnitude of engagement difference (Cohen's d) | RQ1 |
+| Thematic/keyword coding | Identify recurring moral frames and themes in comment text | RQ1 |
+| Cross-platform comparison | Compare theme frequency across YouTube, X, and Instagram | RQ1 |
+| Engagement comparison | Compare mean likes for high-outrage vs. neutral comments | RQ2 |
+| Effect size calculation | Determine magnitude of engagement difference (Cohen's d) | RQ2 |
 
 ---
 
@@ -47,12 +48,12 @@
 
 ```
 KIN-7518-Project-3-4-21-26/
-├── README.md                  # Project overview (this file)
-├── .gitignore                 # Excludes data files and system files
-├── code/                      # Analysis scripts
-├── visualizations/            # Charts and figures
-├── report/                    # Report drafts in markdown
-└── GROUPS/TheMcGradys/        # Group plan and feedback docs
+├── README.md                       # Project overview (this file)
+├── .gitignore                      # Excludes data files and system files
+├── code/                           # Analysis scripts
+├── visualizations/                 # Charts and figures
+├── report/                         # Report drafts in markdown
+└── GROUPS/TheMcGradys/             # Group plan and feedback docs
 ```
 
 ---
