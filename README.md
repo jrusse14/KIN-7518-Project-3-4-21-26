@@ -19,7 +19,7 @@
 
 ## Research Questions
 
-**RQ1:** Do Instagram posts featuring revealing clothing or sexualized imagery by Angel Reese and Caitlin Clark receive higher engagement (likes and comments) compared to non-sexualized posts?
+**RQ1:** ?
 
 > *Research questions will be refined as analysis develops.*
 
