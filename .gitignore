@@ -3,6 +3,8 @@
 *.xls
 *.csv
 *.pdf
+*.pptx
+*.ppt
 
 # macOS system files
 .DS_Store
