@@ -53,7 +53,7 @@ KIN-7518-Project-3-4-21-26/
 ├── code/                           # Analysis scripts
 ├── visualizations/                 # Charts and figures
 ├── report/                         # Report drafts in markdown
-└── GROUPS/TheMcGradys/             # Group plan and feedback docs
+└── report/P3_PLAN.md               # P3 research plan (to be added)
 ```
 
 ---
